@@ -8,7 +8,7 @@
             (max_idx) = (cur_idx); \
         } \
     } while(0)
-
+// 
 int main() {
     int n;
     if (scanf("%d", &n) != 1) return 0;
